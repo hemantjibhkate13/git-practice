@@ -5,3 +5,5 @@ Brocadero webpage
 <p>
   hello, sameer here how may i help yoy!!
 </p>
+ -- features of the repo
+ 
